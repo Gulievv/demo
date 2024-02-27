@@ -13,6 +13,7 @@ public class Main {
   Car c = b;
   c.drive();
         System.out.println(c.a);
+        //t6ilk78k
     }
 
 //1    public static void driveAllCars(Car[] cars) {
